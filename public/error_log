@@ -1,0 +1,52 @@
+[07-Nov-2016 10:24:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mindgigs/public_html/storage/framework/views/b00a2d69bb8a7fc0c2f7b594578b18f3e1c86119.php on line 37
+[15-Nov-2016 12:15:14 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:15:28 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:16:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:16:08 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:41:13 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:41:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:41:46 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:44:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:44:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:44:12 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:45:01 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:45:34 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:45:46 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:45:50 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:47:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:48:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:48:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:50:31 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:50:34 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:50:37 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:50:52 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:50:54 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:50:57 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:51:13 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[15-Nov-2016 12:51:16 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/mindgigs/public_html/app/Http/routes.php on line 1
+[09-Dec-2016 13:16:42 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 3
+[09-Dec-2016 13:16:52 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 3
+[09-Dec-2016 13:17:52 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 3
+[09-Dec-2016 13:17:56 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 3
+[09-Dec-2016 13:19:17 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 3
+[09-Dec-2016 13:27:25 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Message' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 742
+[09-Dec-2016 13:29:46 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Message' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 742
+[09-Dec-2016 13:29:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Message' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 742
+[09-Dec-2016 13:39:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Message' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 742
+[09-Dec-2016 13:41:17 UTC] PHP Fatal error:  Class 'App\Message' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 743
+[10-Dec-2016 12:02:56 UTC] PHP Fatal error:  Call to undefined function isse() in /home/mindgigs/new.mindgigspk.com/storage/framework/views/08a4521e83ede089f34e57527454ce08f2d2143d.php on line 30
+[10-Dec-2016 12:02:59 UTC] PHP Fatal error:  Call to undefined function isse() in /home/mindgigs/new.mindgigspk.com/storage/framework/views/08a4521e83ede089f34e57527454ce08f2d2143d.php on line 30
+[10-Dec-2016 12:03:26 UTC] PHP Fatal error:  Call to undefined function isse() in /home/mindgigs/new.mindgigspk.com/storage/framework/views/08a4521e83ede089f34e57527454ce08f2d2143d.php on line 30
+[10-Dec-2016 12:08:04 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/mindgigs/new.mindgigspk.com/storage/framework/views/08a4521e83ede089f34e57527454ce08f2d2143d.php on line 48
+[10-Dec-2016 12:09:42 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/mindgigs/new.mindgigspk.com/storage/framework/views/08a4521e83ede089f34e57527454ce08f2d2143d.php on line 48
+[15-Dec-2016 09:34:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\payment' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/PaymentController.php on line 65
+[15-Dec-2016 09:36:43 UTC] PHP Fatal error:  Class 'App\offers' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/PaymentController.php on line 78
+[15-Dec-2016 09:38:20 UTC] PHP Fatal error:  Class 'App\offers' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/PaymentController.php on line 78
+[15-Dec-2016 10:23:50 UTC] PHP Parse error:  syntax error, unexpected 'back' (T_STRING) in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/PaymentController.php on line 86
+[15-Dec-2016 10:25:05 UTC] PHP Parse error:  syntax error, unexpected 'back' (T_STRING) in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/PaymentController.php on line 86
+[15-Dec-2016 13:40:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/PaymentController.php on line 184
+[19-Dec-2016 12:08:10 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Category' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 139
+[19-Dec-2016 12:09:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Category' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 139
+[19-Dec-2016 12:09:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Category' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 139
+[19-Dec-2016 12:10:40 UTC] PHP Fatal error:  Class 'App\Category' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 141
+[19-Dec-2016 12:12:07 UTC] PHP Fatal error:  Class 'App\Category' not found in /home/mindgigs/new.mindgigspk.com/app/Http/Controllers/DashboardController.php on line 141

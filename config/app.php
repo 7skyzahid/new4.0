@@ -158,7 +158,6 @@ return [
         Kim\Activity\ActivityServiceProvider::class,
         /*GEo Lcoation */
         \Torann\GeoIP\GeoIPServiceProvider::class,
-       Oureastudios\Laravel\BraintreeServiceProvider::class,
 
 
     ],

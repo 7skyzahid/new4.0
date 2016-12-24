@@ -189,6 +189,18 @@
                          <li><a href="/contact">CONTACT</a></li>
                      </ul>
                      <!-- End Menu-->
+
+                     <div class="col-md-3">
+                         <form class="search"  method="Post" action="/skillsearch">
+                             {!! csrf_field() !!}
+                             <div class="input-group">
+                                 <input type="text" name="tosearch" class="form-control"  id="skilltitle" style="width: 280px" placeholder="Search for Skills">
+                                 <span class="input-group-btn">
+                                    <button class="btn btn-primary" type="submit" name="subscribe" >Go!</button>
+                                </span>
+                             </div>
+                         </form>
+                     </div>
                  </nav>
                  </div>
 

@@ -60,9 +60,9 @@ return [
         'mysql' => [
             'driver' => 'mysql',
             'host'      => 'localhost',
-            'database'  => 'mindgigs_pk',
-            'username'  => 'mindgigs_pk',
-            'password'  => 'mindgigs_pk123',
+            'database'  => 'mindgigs',
+            'username'  => 'root',
+            'password'  => '',
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',
